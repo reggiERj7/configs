@@ -1,5 +1,5 @@
 # configs
-configs for IDE/redactors
+
 
 Show installed list-extensions
 
